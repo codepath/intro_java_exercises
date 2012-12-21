@@ -1,6 +1,6 @@
 package apollo.exercises.ch1_output;
 
-//This is a program that prints an interesting quote.
+// This is a program that prints an interesting quote.
 public class Ex3_PrintQuote {
 
 	// This is the main method that is executed as
