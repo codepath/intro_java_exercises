@@ -2,12 +2,12 @@ package apollo.exercises.ch4_loops;
 
 public class Ex1_BasicLoop {
 
-	/**
-	 * @param args
-	 */
+	// This is the main method that is executed as
+	// soon as the program starts.
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		// Print "Hello World" 10 times using a for loop
+		
 	}
 
 }
