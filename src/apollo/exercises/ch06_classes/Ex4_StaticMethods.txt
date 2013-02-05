@@ -1,0 +1,6 @@
+Goal: Add some static fields and methods to Book.
+
+Description:
+
+1)
+2)

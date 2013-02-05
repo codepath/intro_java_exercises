@@ -1,0 +1,9 @@
+Goal: Add a constructor to the Book class
+
+Directions:
+
+1) Open Book.java
+2) Create a constructor that takes title, author, numPages, and isbn.
+   Note: Use the "this" keyword in the constructor.
+3) Open BookRunner.java
+  a) Modify the object instantiation to use the new constructor.
