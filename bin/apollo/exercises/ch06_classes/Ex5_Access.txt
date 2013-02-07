@@ -1,0 +1,13 @@
+Goal: Implement a class called BankAccount.
+
+Description:
+
+1) Create a new class called BankAccount
+  a) Add a constructor that takes a User and an initialBalance as parameters.
+  b) Create a private field for balance
+    i) What type should balance be?
+  c) Create public methods for deposit(double amount), withdraw(double amount),
+   and printBalance().
+2) Create a new class called BankRunner with a main method.
+  a) Instantiate 2 bank accounts, with different initialBalances
+  b) Deposit some money, withdraw some money, and print the balance. 

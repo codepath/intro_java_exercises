@@ -1,0 +1,16 @@
+Goal: Create a user class that interacts with books.
+
+Directions:
+
+1) Create a class called User.
+  a) Add fields for name, age, and location.
+  b) Add a method called toString.
+2) In the book class:
+  a) Change the author field to be of type User.
+  b) Modify the toString method to include the author's name.
+3) In the user class:
+  a) Create a method called readBook(Book book)
+  b) readBook should print, "<User> read <title>"
+4) In the BookRunner
+  a) For each book, create an author.
+  b) Separately, create another user and call the readBook method on that user, passing in one of the created books.
