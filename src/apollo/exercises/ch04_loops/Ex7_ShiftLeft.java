@@ -1,6 +1,6 @@
-package apollo.exercises.ch08_collections;
+package apollo.exercises.ch04_loops;
 
-public class Ex2_ShiftLeft {
+public class Ex7_ShiftLeft {
 
 	// This is the main method that is executed as
 	// soon as the program starts.	

@@ -1,6 +1,6 @@
-package apollo.exercises.ch08_collections;
+package apollo.exercises.ch04_loops;
 
-public class Ex2_NumberOfOccurrences {
+public class Ex6_NumberOfOccurrences {
 
 	// This is the main method that is executed as
 	// soon as the program starts.

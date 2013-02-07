@@ -1,6 +1,6 @@
-package apollo.exercises.ch08_collections;
+package apollo.exercises.ch04_loops;
 
-public class Ex1_CountEvens {
+public class Ex5_CountEvens {
 
 	// This is the main method that is executed as
 	// soon as the program starts.	
