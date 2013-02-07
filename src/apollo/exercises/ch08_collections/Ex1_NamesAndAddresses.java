@@ -1,4 +1,4 @@
-package apollo.exercises.ch09_hashmap;
+package apollo.exercises.ch08_collections;
 
 import java.util.HashMap;
 

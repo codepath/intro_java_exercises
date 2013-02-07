@@ -1,4 +1,4 @@
-package apollo.exercises.ch08_arraylists;
+package apollo.exercises.ch08_collections;
 
 public class Ex3_RemoveOdd {
 

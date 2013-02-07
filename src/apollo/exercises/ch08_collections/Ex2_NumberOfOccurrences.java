@@ -1,4 +1,4 @@
-package apollo.exercises.ch09_hashmap;
+package apollo.exercises.ch08_collections;
 
 public class Ex2_NumberOfOccurrences {
 
