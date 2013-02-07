@@ -1,0 +1,36 @@
+Goal: Explore basic interfaces
+
+Description:
+In this exercise, we will introduce the concept of a security alarm system.
+Just like the security system in your office or home, the functions are
+pretty simple. You can enable and disable the alarm system, and, if the
+alarm is tripped, it will make a noise and notify you.
+
+Two classes will implement the alarm interface: a dog and a traditional alarm
+system.
+
+Directions:
+
+1) Create an interface called Alarm.
+  a) Add a method called setAlarmEnabled(Boolean enabled, String password)
+2) In the previously created Dog class, modify it to implement the Alarm.
+  a) Add a private field called alarmEnabled to track the enabled state.
+  b) Implement all the methods in the Alarm.
+    i) In the alarm enabled method, print out, "Dog is on alert" or "Dog is resting"
+3) Create a new class called SecuritySystem that also implements the Alarm.
+  a) Add a private field called alarmEnabled to track the enabled state.
+  b) Implement all the methods in the Alarm.
+    i) In the alarm enabled method, print out, "Security system enabled" or "Security system disabled"
+4) Create a new class called House.
+  a) Add a private field called alarms that is an array of Alarm
+  b) Add a constructor that takes no parameters.
+    i) In the constructor, allocate an array of 2 items for alarms.
+    ii) Set the first element to a dog.
+    iii) Set the second element to a SecuritySystem.
+  c) Add a public method called setAlarmsEnabled(Boolean enabled)
+    i) In this method, iterate over the alarms array and set each element to enabled.
+5) Create a new class called HouseRunner with a main method.
+  a) In the main method, instantiate a house.
+  b) Set the alarm to be enabled, you should see both the dog and the security system confirming the
+     enabled state.
+  c) Disable the alarm, you should see both the dog and the security system confirming the standby state.

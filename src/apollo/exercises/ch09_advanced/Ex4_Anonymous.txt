@@ -1,0 +1,33 @@
+Goal: The goal of this class is to explore anonymous classes.
+
+In a previous exercise, we created a House w/ two alarm systems:
+a dog and a traditional security system. The House would be able
+to enable and disable the alarm system. However, there is no way
+for the dog or the security system to notify the House that an
+intruder has been directed so that the house can take some action.
+
+In this exercise, we will allow the dog or the security system to
+alert the House if an intruder is detected.
+
+Directions:
+
+1) Create a new interface called AlarmResponder.
+  a) Create a method called:
+    public void triggeredAlarm(Alarm alarm)
+2) In both the Dog class AND the SecuritySystem class,
+  a) Create a private field of type AlarmResponder
+  b) Create a method called:
+    
+     public setAlarmResponder(AlarmResponder responder)
+  
+     and set the private AlarmResponder field.
+  c) Create a new method called detectIntruder
+    i) In this method, call the method triggeredAlarm(this)
+3) In the House class,
+  a) In the constructor, after instantiating the dog,
+    create an anonymous class with an implemented method for
+    triggeredAlarm.  In the method, print out "Heard the dog barking".
+  b) In the constructor, after instantiating the SecuritySystem,
+    create an anonymous class with an implemented method for
+    triggeredAlarm.  In the method, print out "Heard the security system alarm". 
+    

@@ -1,0 +1,20 @@
+Goal: The goal of this exercise is to explore abstract classes.
+
+Description:
+Currently, Dog and Cat subclass animal.  However, it is still possible
+to instantiate Animal that is neither a dog nor a cat.  That is confusing
+because it doesn't make sense to have an animal that is not a specific
+type. In this exercise, we will make Animal an abstract class, so that
+Dog and Cat can still share its functionality, but we can no longer
+directly instantiate Animal.
+
+Directions:
+
+1) Change Animal to be an abstract class.
+  i) In the Animal class, modify speak to be an abstract method.
+2) Note the errors in AnimalRunner when attempting to instantiate animals.
+3) Create a new class called Mouse that extends Animal.
+  i) Do not implement speak.
+  ii) Note the compile error.
+  iii) Implement the speak method.
+

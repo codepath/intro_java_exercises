@@ -1,0 +1,15 @@
+Goal: The goal of this exercise is to explore inner classes.
+
+Directions:
+
+1) In the Dog class, create a private inner class called CommandParser
+  a) In CommandParser, create a method called:
+    i) public void execute(String command)
+    ii) In this method, if the command is the string, "Speak", call the
+       method speak().
+  b) In the Dog class, create a new method called:
+    i) public void command(String command)
+    ii) In this method, instantiate a new CommandParser.
+    iii) Call the execute method of the new CommandParser w/ the string command.
+  c) In AnimalRunner, call dog.command("Speak").
+    i) Does this appropriately output, "Woof"? 
