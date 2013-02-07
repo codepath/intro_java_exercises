@@ -1,0 +1,32 @@
+Goal: Explore overloading methods
+
+Directions:
+
+1) Add an additional constructor in the Dog class that just initializes
+   weight and sex.  Should default isGuideDog to false and use the 
+   "super" keyword.
+2) Add an additional constructor in the Cat class that just initializes
+   weight and sex.  Should default lovesCatnip to true and use the
+   "super" keyword.
+3) In AnimalRunner, 
+   a) instantiate two dogs. For one dog, use the
+      constructor that only sets weight and sex. For another dog, also
+      pass in true for isGuideDog.
+   b) Print out all fields for both dogs.
+   c) instantiate two cats. For one cat, use the
+      constructor that only sets weight and sex. For another cat, also
+      pass in a value for lovesCatnip.
+   d) Print out all fields for both cats.
+4) In Dog,
+   a) add a method called speak(int numTimes) that prints out "Woof"
+      as many times as numTimes.  For example, calling:
+      
+      dog.speak(2)
+      
+      should output:
+      
+      Woof Woof
+   b) In AnimalRunner, add the following lines of code:
+      
+      dog.speak();
+      dog.speak(3);

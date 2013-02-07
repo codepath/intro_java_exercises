@@ -1,0 +1,13 @@
+Goal: Explore constructors in inheritance
+
+Directions:
+
+1) Add a constructor for Animal that initializes weight and sex.
+2) In AnimalRunner, try to instantiate an animal like this:
+  Animal a = new Animal();
+  
+  What happened?
+3) Add a constructor to Dog that initializes weight, sex, and isGuideDog.
+  Use the "super" keyword.
+4) Add a constructor to Cat that initializes weight, sex, and lovesCatnip.
+  Use the "super" keyword.

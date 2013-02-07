@@ -1,0 +1,25 @@
+Goal: Explore overriding methods
+
+Directions:
+
+1) Add a method in the Animal class:
+
+public void speak() {
+  // Do nothing
+}
+
+2) Add a method in the Dog class:
+
+public void speak() {
+  System.out.println("Woof");
+}
+
+3) Add a speak method in the Cat class that outputs "Meow".
+4) Create a class called AnimalRunner with a main method.
+  a) Instantiate a dog and a cat.
+  b) Call the speak method on the dog and the cat.
+  c) Create a static method:
+  	public static void speak(Animal animal) {
+  	  animal.speak();
+    }
+  d) Call speak(dog) and speak(cat).  What is the output?   

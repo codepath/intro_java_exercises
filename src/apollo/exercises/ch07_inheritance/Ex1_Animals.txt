@@ -1,0 +1,16 @@
+Goal: Explore basic inheritance with cats and dogs.
+
+Directions:
+
+1) Create a class called Animal.
+  a) Add fields for weight, sex
+2) Create a subclass of Animal called Dog
+  a) Add a Boolean field for isGuideDog
+3) Create a subclass of Animal called Cat
+  a) Add a Boolean field for lovesCatnip 
+4) Create a class called AnimalRunner with a main method.
+  a) Instantiate an animal, a dog, and a cat.
+  b) Set a weight and a sex for the animal, dog, and cat
+  c) Set isGuideDog for the dog
+  d) Set lovesCatnip for the cat
+  e) Print out the properties for the animal, dog, and cat
