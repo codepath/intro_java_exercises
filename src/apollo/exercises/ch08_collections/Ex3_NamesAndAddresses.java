@@ -2,7 +2,7 @@ package apollo.exercises.ch08_collections;
 
 import java.util.HashMap;
 
-public class Ex1_NamesAndAddresses {
+public class Ex3_NamesAndAddresses {
 
 	// This is the main method that is executed as
 	// soon as the program starts.

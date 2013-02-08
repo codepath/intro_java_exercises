@@ -1,6 +1,6 @@
 package apollo.exercises.ch08_collections;
 
-public class Ex3_RemoveOdd {
+public class Ex4_RemoveOdd {
 
 	// This is the main method that is executed as
 	// soon as the program starts.	
