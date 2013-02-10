@@ -21,7 +21,7 @@ public class Ex5_BasicMath {
 		
 		System.out.println("The difference of x and y is: " + z);
 		
-		// Set z to the product of x and y
+		// Set z to the product of x and y (multiply x by y)
 		
 		System.out.println("The product of x and y is: " + z);
 		
@@ -30,6 +30,7 @@ public class Ex5_BasicMath {
 		System.out.println("The quotient of x and y is: " + z);
 		
 		// Set z to the remainder of x divided by y
+		// Hint remainder is found using the mod operator (%) i.e 6 % 3 is 0
 		
 		System.out.println("The remainder of x divided by y is: " + z);
 		
@@ -45,7 +46,21 @@ public class Ex5_BasicMath {
 		
 		// Set z equal to (x * 1.0) / y
 		
-		System.out.println("The quotient of x and y is: " + z);
+		System.out.println("The result of x * 1.0 / y is: " + z);
 	}
 
 }
+
+/*
+ * 
+ * SAMPLE OUTPUT:
+ *  
+ *   The sum of x and y is: 8
+ *   The difference of x and y is: 2
+ *   The product of x and y is: 15
+ *   The quotient of x and y is: 1
+ *   The remainder of x divided by y is: 2
+ *   
+ *   The quotient of a and b is: 1.6667
+ *    
+ */

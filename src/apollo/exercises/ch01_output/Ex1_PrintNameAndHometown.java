@@ -11,7 +11,16 @@ public class Ex1_PrintNameAndHometown {
 		//
 		// After running the program, you should see something like
 		// this in the console: http://d.pr/i/7LO9
+		//
 		
 	}
 	
 }
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *   Billy Joe
+ *   Cleveland, OH
+ *   
+ */

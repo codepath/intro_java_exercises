@@ -7,13 +7,21 @@ public class Ex1_BasicMethod {
 	// soon as the program starts.
 	public static void main(String[] args) {
 		
-		// Create another public static method called PrintBasicInfo.
-		//
-		// PrintBasicInfo is a method that prints out your name, email,
-		// and mailing address.
-		//
-		// Call the PrintBasicInfo method from the main method
+		// Call the printBasicInfo method from the main method here
+		// Call the printBasicInfo method from the main method with different name and email
 
 	}
+	
+	// Define a public static method called printBasicInfo which accepts a name and email.
+    //
+	// printBasicInfo is a method that prints out a name and email.
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *   Name: Ken Thompson | Email: ken@thompson.com
+ *   Name: James Dean | Email: deanish@jim.com
+ *   
+ */

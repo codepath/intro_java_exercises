@@ -7,8 +7,18 @@ public class Ex2_PrintFunFact {
 	// soon as the program starts.
 	public static void main(String[] args) {
 
-		// Print a fun fact about yourself.
+		// Print two separate facts about yourself on different lines with a single println statement.
+		// HINT: Use println and then add a "\n" within quotes to force a new line.
+		// i.e "This is one line\nThis is the next"
 		
 	}
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *   I like to go rock climbing.
+ *   I used to live in Brazil.
+ *   
+ */

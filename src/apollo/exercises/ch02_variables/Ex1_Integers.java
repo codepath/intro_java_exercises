@@ -13,5 +13,16 @@ public class Ex1_Integers {
 		
 		// Step 3: Print the variable count to the console.
 		
+		// Bonus: Try declaring and assigning the "count" variable on the same line instead
+		// i.e: String name = "Bob";
+		
 	}
 }
+
+/*
+ * 
+ * SAMPLE OUTPUT:
+ *  
+ *   3
+ *    
+ */

@@ -9,9 +9,9 @@ public class Ex3_Siri {
 	public static void main(String[] args) {
 		
 		// Step 1: Declarations
-		//   Declare a string for your name
-		//   Declare an integer for the temperature
-		//   Declare a decimal for the percent chance of rain
+		//   Declare a string for your name (name)
+		//   Declare an integer for the temperature (temp)
+		//   Declare a double for the percent chance of rain (chanceOfRain)
 		
 		// Step 2: Assignments
 		//   Set name to your name
@@ -24,6 +24,18 @@ public class Ex3_Siri {
 		
 		// Tip: For the percent chance of rain, use the multiplication operator
 		//      in the output line to change the decimal to a percentage.
+		
+		// Hint: You can "cast" a decimal to a integer to truncate the extra decimal places
+		//      (int) (someDecimalVal * 100)
+		
 	}
 
 }
+
+/*
+ * 
+ * SAMPLE OUTPUT:
+ *  
+ *   Hello, Mike, today's high is 65 degrees, with a 45% chance of rain.
+ *    
+ */

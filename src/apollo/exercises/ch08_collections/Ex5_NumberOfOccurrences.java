@@ -1,6 +1,6 @@
-package apollo.exercises.ch04_loops;
+package apollo.exercises.ch08_collections;
 
-public class Ex6_NumberOfOccurrences {
+public class Ex5_NumberOfOccurrences {
 
 	// This is the main method that is executed as
 	// soon as the program starts.
@@ -10,6 +10,8 @@ public class Ex6_NumberOfOccurrences {
 		//
 		// int[] scores = {85,93,96,96,92,100,91,85,87,92};
 		// printOccurrences(scores)
+		//
+		// HINT: Use a HashMap to keep track of the counts (K: Integer, V: Integer)
 		//
 		// Output:
 		//  85 - 2

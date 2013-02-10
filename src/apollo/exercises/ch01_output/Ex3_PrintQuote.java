@@ -10,14 +10,22 @@ public class Ex3_PrintQuote {
 		// Print an interesting quote from a famous person.
 		// The quote should contain quotation marks and attribution.
 		// 
-		// For example,
+		// HINT: To print out quotes you need to escape the inner quotes:
+		//    
+		//    "\"This is printed in quotes\" - Foo"
 		//
-		//   "Have you ever noticed that anybody driving slower than
-		//    you is an idiot, and anyone going faster than you is a
-		//    maniac?"  = George Carlin
-		//
-		// Output screenshot: http://d.pr/i/tEYj
 		
 	}
 
 }
+
+/*
+ * 
+ * SAMPLE OUTPUT:
+ *  
+ *   "Have you ever noticed that anybody driving slower than
+ *      you is an idiot, and anyone going faster than you is a maniac?" - George Carlin
+ *   
+ *   Output screenshot: http://d.pr/i/tEYj
+ *    
+ */

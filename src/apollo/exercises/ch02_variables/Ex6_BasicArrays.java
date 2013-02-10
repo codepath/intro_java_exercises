@@ -15,3 +15,17 @@ public class Ex6_BasicArrays {
 	}
 
 }
+
+/*
+ * 
+ * SAMPLE OUTPUT:
+ *  
+ *   The sum of x and y is: 8
+ *   The difference of x and y is: 2
+ *   The product of x and y is: 15
+ *   The quotient of x and y is: 1
+ *   The remainder of x divided by y is: 2
+ *   
+ *   The quotient of a and b is: 1.6667
+ *    
+ */

@@ -1,5 +1,6 @@
 package apollo.exercises.ch03_methods;
 
+// The program that can print random numbers
 public class Ex3_PrintRandomNumber {
 
   // This is the main method that is executed as
@@ -21,3 +22,11 @@ public class Ex3_PrintRandomNumber {
   }
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *   My random number is 13
+ *   My random number is 78
+ *   
+ */
