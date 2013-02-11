@@ -11,3 +11,19 @@ public class Ex1_BasicLoop {
 	}
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *  Hello World
+ *   
+ */

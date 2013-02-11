@@ -13,3 +13,19 @@ public class Ex2_CountingBackwards {
 	}
 
 }
+
+
+/*
+ * SAMPLE OUTPUT:
+ *  
+ *  100
+ *  99
+ *  98
+ *  99
+ *  97
+ *  ...
+ *  3
+ *  2
+ *  1
+ *   
+ */

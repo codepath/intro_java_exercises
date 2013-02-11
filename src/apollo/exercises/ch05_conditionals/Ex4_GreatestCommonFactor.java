@@ -24,3 +24,12 @@ public class Ex4_GreatestCommonFactor {
 	}
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ * 
+ * 2
+ * 1
+ * 0
+ * 
+ */

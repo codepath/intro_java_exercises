@@ -10,9 +10,21 @@ public class Ex3_Blackjack {
 		// value is nearest to 21 without going over. 
 		// Return 0 if they both go over. 
 		//
-		// Create a method like:
-		//   public int blackjack(int a, int b)
-		//
+		
+		// Call the method a few times and print the result
 	}
+	
+	// Create a method like:
+	//   public int blackjack(int a, int b)
+	//
 
 }
+
+/*
+ * SAMPLE OUTPUT:
+ * 
+ * 6
+ * 8
+ * 0
+ * 
+ */
