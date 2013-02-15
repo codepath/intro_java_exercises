@@ -11,7 +11,7 @@ public class Ex3_Blackjack {
 		// Return 0 if they both go over. 
 		//
 		
-		// Call the method a few times and print the result
+		// Call the method a few times and print the results
 	}
 	
 	// Create a method like:

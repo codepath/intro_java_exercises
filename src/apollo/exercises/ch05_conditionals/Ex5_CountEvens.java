@@ -1,4 +1,4 @@
-package apollo.exercises.ch04_loops;
+package apollo.exercises.ch05_conditionals;
 
 public class Ex5_CountEvens {
 
@@ -11,10 +11,13 @@ public class Ex5_CountEvens {
 	// Create a method called countEvens
 	// Return the number of even ints in the given array. 
 	// Note: the % "mod" operator computes the remainder, e.g. 5 % 2 is 1. 
-
-	// countEvens({2, 1, 2, 3, 4}) -> 3
-	// countEvens({2, 2, 0}) -> 3
-	// countEvens({1, 3, 5}) -> 0
+	
+	// int a = {2, 1, 2, 3, 4};
+	// countEvens(a); // -> 3
+	// int b = {2, 2, 0};
+	// countEvens(b); // -> 3
+	// int c = { 1, 3, 5};
+	// countEvens(c); // -> 0
 
 }
 
