@@ -6,8 +6,15 @@ Description:
 2) Create the following static methods:
   a) int sum(int[] x)
   b) float avg(int[] x)
-  c) int median(int[] x)
-  d) int mode(int[] x)
 3) Create a new class called CalculatorRunner that includes a main method
   a) Instantiate an array with 10 random integers
-  b) Print the sum, avg, median, and mode of the integers using the static helper methods in ArrayCalculator.
+  b) Print the sum and avg of the integers using the static helper methods in ArrayCalculator.
+  
+Bonus Challenge (not required):
+
+4) Try to add median and mode methods to the ArrayCalculator.
+
+  Median (The middle number in a sorted list of numbers)
+      int median(int[] x)   
+  Mode (The number which appears most often in a set of numbers.)
+      int mode(int[] x)
