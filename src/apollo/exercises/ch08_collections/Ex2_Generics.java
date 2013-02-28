@@ -1,5 +1,8 @@
 package apollo.exercises.ch08_collections;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Ex2_Generics {
 
 	// This is the main method that is executed as
@@ -9,7 +12,8 @@ public class Ex2_Generics {
 		// Directions:
 		//
 		// 1) Initialize an ArrayList of Strings to 5 strings using:
-		//    (ArrayList<String>)Arrays.asList("hello", "goodbye");
+		//    new ArrayList<String>(Arrays.asList("hello", "goodbye"));
+		//
 		// 2) Try to add an integer to that ArrayList using something like:
 		//    array.add(5);
 		//
@@ -19,8 +23,6 @@ public class Ex2_Generics {
 		// 4) Add 10 random integers to the ArrayList using the add method
 		// 5) Print out the contents of the ArrayList
 		//
-		
-
 	}
 
 }
