@@ -7,7 +7,7 @@ demonstrates various java concepts using simple exercises.
 
  * Install eclipse and java SDK: http://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#zz-1.
  * In Eclipse, in menu: File => Import => Git => Projects from Git => URI
- * The URI is: `https://bitbucket.org/codepath/intro_java_exercises.git`
+ * The URI is: `https://github.com/thecodepath/intro_java_exercises`
  * Hit Finish and the project should load in your Eclipse Workspace.
 
 ## Overview
